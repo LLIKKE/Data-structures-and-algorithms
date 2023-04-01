@@ -1,0 +1,1 @@
+"D:\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/CLion 2022.2.3/bin/ninja/win/ninja.exe" -G Ninja -S E:\Desktop\数据结构与算法实验综合实验题：高铁订票系统21\参考示例\stu_book_cd -B E:\Desktop\数据结构与算法实验综合实验题：高铁订票系统21\参考示例\stu_book_cd\cmake-build-debug

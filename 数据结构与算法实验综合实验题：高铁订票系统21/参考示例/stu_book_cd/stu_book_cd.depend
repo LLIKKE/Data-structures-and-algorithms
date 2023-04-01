@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1415762613 source:c:\try\stu_book_cd\newfile.cpp
+	"typedefine.h"
+	"sqlist_B.h"
+	"sqlist_S.h"
+	"queue.h"
+	"borrow.h"
+
+1415719091 c:\try\stu_book_cd\typedefine.h
+	"stdio.h"
+	"string.h"
+	<ctype.h>
+	<conio.h>
+	<time.h>
+	"stdlib.h"
+
+1607474899 c:\try\stu_book_cd\sqlist_b.h
+
+1607474899 c:\try\stu_book_cd\sqlist_s.h
+
+1415757309 c:\try\stu_book_cd\queue.h
+
+1607475684 c:\try\stu_book_cd\borrow.h
+

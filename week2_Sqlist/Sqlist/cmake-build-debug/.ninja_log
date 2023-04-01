@@ -1,0 +1,11 @@
+# ninja log v5
+21	192	6863887977918586	CMakeFiles/Sqlist.dir/main.cpp.obj	2a87fe44166243ec
+195	530	6863887981281469	Sqlist.exe	2f7bf168a5f7c339
+3	195	6863887977918586	CMakeFiles/Sqlist.dir/Sqlist_base.cpp.obj	ea6cab34e31152d5
+34	415	6864976017397243	CMakeFiles/Sqlist.dir/main.cpp.obj	866a2ab470f582f6
+6	428	6864976017517145	CMakeFiles/Sqlist.dir/Sqlist_base.cpp.obj	b042ea353cd45c28
+428	852	6864976021806567	Sqlist.exe	2f7bf168a5f7c339
+3	2305	6866430483218279	CMakeFiles/Sqlist.dir/main.cpp.obj	866a2ab470f582f6
+2307	3704	6866430497042325	Sqlist.exe	2f7bf168a5f7c339
+3	171	6900948910104853	CMakeFiles/Sqlist.dir/main.cpp.obj	866a2ab470f582f6
+172	410	6900948912488528	Sqlist.exe	2f7bf168a5f7c339

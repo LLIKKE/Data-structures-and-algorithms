@@ -1,0 +1,7 @@
+# ninja log v5
+4	210	6906498240525775	CMakeFiles/MGraph.dir/depth_first_search.cpp.obj	4733c6637ba00bcf
+8	389	6905425980161944	CMakeFiles/MGraph.dir/007_run!.cpp.obj	5c876179d657a223
+151	345	6916910834362283	MGraph.exe	887bcd29f9f4da57
+2	121	6912381643555840	CMakeFiles/MGraph.dir/BFST.cpp.obj	8d4163a883413d16
+3	128	6912511293119427	CMakeFiles/MGraph.dir/Topological_sort.cpp.obj	13906d6e4d00884e
+2	150	6916910832457534	CMakeFiles/MGraph.dir/floyed.cpp.obj	300d4f164bb7d597
